@@ -2,7 +2,11 @@
   "name": "comet-backend-engineer-test",
   "version": "1.0.0",
   "description": "comet backend engineer test",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "moment-range": "^4.0.1"
+  },
   "engines": {
     "node": "8.4.0"
   },
@@ -11,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/hellocomet/backend-engineer-test/issues"
   },
-  "homepage": "https://github.com/hellocomet/backend-engineer-test"
+  "homepage": "https://github.com/hellocomet/backend-engineer-test",
 }
